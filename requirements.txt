@@ -1,0 +1,15 @@
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+networkx>=2.5
+scipy>=1.7.0
+
+# Optional enhancements (uncomment as needed)
+# plotly>=5.0.0          # Interactive visualizations
+# scikit-learn>=1.0.0    # Machine learning models
+# streamlit>=1.0.0       # Web dashboard
+# dash>=2.0.0            # Alternative web framework
+# openpyxl>=3.0.0        # Excel export
+# reportlab>=3.5.0       # PDF generation
